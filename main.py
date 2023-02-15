@@ -5,7 +5,7 @@ import mscl
 from libs.data_streamer import DataStreamer
 
 from libs.saver import Saver
-from time import time
+from time import time, sleep
 import threading
 from datetime import datetime
 
@@ -40,11 +40,14 @@ if __name__ == "__main__":
         input(f"Press Enter to Stop and Save")
         shared.isDone = True
 
+
         ## Save packets
-        packets_list = streamer.get_packets_list()
-        saver.run(packets_list)
+        timeline_list = streamer.get_timeline_list()
+        saver.run(timeline_list)
+
 
 
     except mscl.Error as e:
         print("---Error:", e)
 
+    

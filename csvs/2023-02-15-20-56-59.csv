@@ -1,0 +1,655 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124
+"{'TIME': '2023-02-15-11-56-59.757137637', 'roll': -0.028955640271306038, 'pitch': -0.016593553125858307, 'yaw': 0.1130940318107605, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.25138854980469, 'estEastPositionUncert': 56.25138854980469, 'estDownPositionUncert': 56.25138854980469, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.33851432800293, 'estEastVelocityUncert': 5.33925724029541, 'estDownVelocityUncert': 1.8307182788848877, 'estRoll': -0.02388344705104828, 'estPitch': -0.016842471435666084, 'estYaw': 0.6286383271217346, 'estRollUncert': 0.0009505483321845531, 'estPitchUncert': 0.000945871404837817, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-56-59.790807681', 'roll': -0.028955193236470222, 'pitch': -0.016599617898464203, 'yaw': 0.11309106647968292}","{'TIME': '2023-02-15-11-56-59.790883991', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.25138854980469, 'estEastPositionUncert': 56.25138854980469, 'estDownPositionUncert': 56.25138854980469, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.33851432800293, 'estEastVelocityUncert': 5.33925724029541, 'estDownVelocityUncert': 1.8307182788848877, 'estRoll': -0.023884067311882973, 'estPitch': -0.016850752755999565, 'estYaw': 0.6286399364471436, 'estRollUncert': 0.0009505483321845531, 'estPitchUncert': 0.000945871404837817, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-56-59.823803259', 'roll': -0.028957340866327286, 'pitch': -0.016598453745245934, 'yaw': 0.11309464275836945}","{'TIME': '2023-02-15-11-56-59.823887412', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.25138854980469, 'estEastPositionUncert': 56.25138854980469, 'estDownPositionUncert': 56.25138854980469, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.33851432800293, 'estEastVelocityUncert': 5.33925724029541, 'estDownVelocityUncert': 1.8307182788848877, 'estRoll': -0.02388869598507881, 'estPitch': -0.01685156114399433, 'estYaw': 0.6286458373069763, 'estRollUncert': 0.0009505483321845531, 'estPitchUncert': 0.000945871404837817, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-56-59.856764172', 'roll': -0.02896212600171566, 'pitch': -0.01659393310546875, 'yaw': 0.1130923479795456}","{'TIME': '2023-02-15-11-56-59.856837760', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.25138854980469, 'estEastPositionUncert': 56.25138854980469, 'estDownPositionUncert': 56.25138854980469, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.33851432800293, 'estEastVelocityUncert': 5.33925724029541, 'estDownVelocityUncert': 1.8307182788848877, 'estRoll': -0.023892957717180252, 'estPitch': -0.01685035042464733, 'estYaw': 0.6286495923995972, 'estRollUncert': 0.0009505483321845531, 'estPitchUncert': 0.000945871404837817, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-56-59.889774662', 'roll': -0.02895679697394371, 'pitch': -0.016574403271079063, 'yaw': 0.11309188604354858}","{'TIME': '2023-02-15-11-56-59.889850545', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.25138854980469, 'estEastPositionUncert': 56.25138854980469, 'estDownPositionUncert': 56.25138854980469, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.33851432800293, 'estEastVelocityUncert': 5.33925724029541, 'estDownVelocityUncert': 1.8307182788848877, 'estRoll': -0.023887254297733307, 'estPitch': -0.016833316534757614, 'estYaw': 0.6286545395851135, 'estRollUncert': 0.0009505483321845531, 'estPitchUncert': 0.000945871404837817, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-56-59.922705139', 'roll': -0.028965391218662262, 'pitch': -0.01658528484404087, 'yaw': 0.11308745294809341}","{'TIME': '2023-02-15-11-56-59.922793763', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.25138854980469, 'estEastPositionUncert': 56.25138854980469, 'estDownPositionUncert': 56.25138854980469, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.33851432800293, 'estEastVelocityUncert': 5.33925724029541, 'estDownVelocityUncert': 1.8307182788848877, 'estRoll': -0.023887960240244865, 'estPitch': -0.016832731664180756, 'estYaw': 0.628655195236206, 'estRollUncert': 0.0009505483321845531, 'estPitchUncert': 0.000945871404837817, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-56-59.955757455', 'roll': -0.02897426299750805, 'pitch': -0.01658661849796772, 'yaw': 0.11308615654706955}","{'TIME': '2023-02-15-11-56-59.955843511', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.25138854980469, 'estEastPositionUncert': 56.25138854980469, 'estDownPositionUncert': 56.25138854980469, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.33851432800293, 'estEastVelocityUncert': 5.33925724029541, 'estDownVelocityUncert': 1.8307182788848877, 'estRoll': -0.02389880269765854, 'estPitch': -0.016839535906910896, 'estYaw': 0.628660261631012, 'estRollUncert': 0.0009505483321845531, 'estPitchUncert': 0.000945871404837817, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-56-59.988752082', 'roll': -0.028965113684535027, 'pitch': -0.016590366140007973, 'yaw': 0.11309752613306046, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.25138854980469, 'estEastPositionUncert': 56.25138854980469, 'estDownPositionUncert': 56.25138854980469, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.33851432800293, 'estEastVelocityUncert': 5.33925724029541, 'estDownVelocityUncert': 1.8307182788848877, 'estRoll': -0.02389051392674446, 'estPitch': -0.01685521751642227, 'estYaw': 0.6286682486534119, 'estRollUncert': 0.0009505483321845531, 'estPitchUncert': 0.000945871404837817, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.021678416', 'roll': -0.02896910160779953, 'pitch': -0.016597667708992958, 'yaw': 0.11309081315994263}","{'TIME': '2023-02-15-11-57-00.021762527', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.25138854980469, 'estEastPositionUncert': 56.25138854980469, 'estDownPositionUncert': 56.25138854980469, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.33851432800293, 'estEastVelocityUncert': 5.33925724029541, 'estDownVelocityUncert': 1.8307182788848877, 'estRoll': -0.023899750784039497, 'estPitch': -0.016852987930178642, 'estYaw': 0.6286759972572327, 'estRollUncert': 0.0009505483321845531, 'estPitchUncert': 0.000945871404837817, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.054666252', 'roll': -0.028974778950214386, 'pitch': -0.01660175621509552, 'yaw': 0.11308622360229492}","{'TIME': '2023-02-15-11-57-00.054742008', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.25138854980469, 'estEastPositionUncert': 56.25138854980469, 'estDownPositionUncert': 56.25138854980469, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.33851432800293, 'estEastVelocityUncert': 5.33925724029541, 'estDownVelocityUncert': 1.8307182788848877, 'estRoll': -0.023891137912869453, 'estPitch': -0.01686115376651287, 'estYaw': 0.6286754608154297, 'estRollUncert': 0.0009505483321845531, 'estPitchUncert': 0.000945871404837817, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.087678052', 'roll': -0.028989048674702644, 'pitch': -0.01661824621260166, 'yaw': 0.11308494210243225, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.25138854980469, 'estEastPositionUncert': 56.25138854980469, 'estDownPositionUncert': 56.25138854980469, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.33851432800293, 'estEastVelocityUncert': 5.33925724029541, 'estDownVelocityUncert': 1.8307182788848877, 'estRoll': -0.023905735462903976, 'estPitch': -0.016874177381396294, 'estYaw': 0.6286736726760864, 'estRollUncert': 0.0009505483321845531, 'estPitchUncert': 0.000945871404837817, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.120684306', 'roll': -0.028977669775485992, 'pitch': -0.016636209562420845, 'yaw': 0.1130780428647995, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.25138854980469, 'estEastPositionUncert': 56.25138854980469, 'estDownPositionUncert': 56.25138854980469, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.33851432800293, 'estEastVelocityUncert': 5.33925724029541, 'estDownVelocityUncert': 1.8307182788848877, 'estRoll': -0.02390667051076889, 'estPitch': -0.016890019178390503, 'estYaw': 0.6286764740943909, 'estRollUncert': 0.0009505483321845531, 'estPitchUncert': 0.000945871404837817, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.153638965', 'roll': -0.02898327447474003, 'pitch': -0.01665283739566803, 'yaw': 0.11308027058839798}","{'TIME': '2023-02-15-11-57-00.153727742', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.25138854980469, 'estEastPositionUncert': 56.25138854980469, 'estDownPositionUncert': 56.25138854980469, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.33851432800293, 'estEastVelocityUncert': 5.33925724029541, 'estDownVelocityUncert': 1.8307182788848877, 'estRoll': -0.023902051150798798, 'estPitch': -0.016909075900912285, 'estYaw': 0.6286784410476685, 'estRollUncert': 0.0009505483321845531, 'estPitchUncert': 0.000945871404837817, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.186597907', 'roll': -0.028992531821131706, 'pitch': -0.01666516810655594, 'yaw': 0.11307116597890854}","{'TIME': '2023-02-15-11-57-00.186676118', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.25138854980469, 'estEastPositionUncert': 56.25138854980469, 'estDownPositionUncert': 56.25138854980469, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.33851432800293, 'estEastVelocityUncert': 5.33925724029541, 'estDownVelocityUncert': 1.8307182788848877, 'estRoll': -0.023911146447062492, 'estPitch': -0.016917845234274864, 'estYaw': 0.6286747455596924, 'estRollUncert': 0.0009505483321845531, 'estPitchUncert': 0.000945871404837817, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.219655239', 'roll': -0.02898944914340973, 'pitch': -0.01665855385363102, 'yaw': 0.11307138204574585, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.02390397898852825, 'estPitch': -0.01691048964858055, 'estYaw': 0.6286812424659729, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.252635510', 'roll': -0.028996707871556282, 'pitch': -0.016657818108797073, 'yaw': 0.11307502537965775, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.023907428607344627, 'estPitch': -0.016920624300837517, 'estYaw': 0.6286864280700684, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.285659617', 'roll': -0.029001185670495033, 'pitch': -0.016664555296301842, 'yaw': 0.11306144297122955, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.02392585016787052, 'estPitch': -0.01692303456366062, 'estYaw': 0.6286810040473938, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.318538608', 'roll': -0.0290122888982296, 'pitch': -0.016675075516104698, 'yaw': 0.11305701732635498}","{'TIME': '2023-02-15-11-57-00.318615096', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.023931050673127174, 'estPitch': -0.01692510023713112, 'estYaw': 0.6286831498146057, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.351547498', 'roll': -0.029008440673351288, 'pitch': -0.01667582429945469, 'yaw': 0.11306577920913696}","{'TIME': '2023-02-15-11-57-00.351629069', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.023916443809866905, 'estPitch': -0.016932103782892227, 'estYaw': 0.6286944150924683, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.384570832', 'roll': -0.02900393307209015, 'pitch': -0.016660455614328384, 'yaw': 0.11306243389844894, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.023908747360110283, 'estPitch': -0.01692679338157177, 'estYaw': 0.628693163394928, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.417488967', 'roll': -0.02899298630654812, 'pitch': -0.01667138561606407, 'yaw': 0.11305464804172516}","{'TIME': '2023-02-15-11-57-00.417565121', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.023903533816337585, 'estPitch': -0.016927847638726234, 'estYaw': 0.6286916732788086, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.450469590', 'roll': -0.028990488499403, 'pitch': -0.01665007323026657, 'yaw': 0.113044872879982}","{'TIME': '2023-02-15-11-57-00.450547146', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.02390352264046669, 'estPitch': -0.016909809783101082, 'estYaw': 0.6286836266517639, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.483526922', 'roll': -0.02899947203695774, 'pitch': -0.016651492565870285, 'yaw': 0.11304081231355667, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.02391638234257698, 'estPitch': -0.016908153891563416, 'estYaw': 0.6286802887916565, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.516436968', 'roll': -0.02899264357984066, 'pitch': -0.016631267964839935, 'yaw': 0.11303449422121048}","{'TIME': '2023-02-15-11-57-00.516512531', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.023905953392386436, 'estPitch': -0.016893461346626282, 'estYaw': 0.628680408000946, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.549422801', 'roll': -0.029003243893384933, 'pitch': -0.016626505181193352, 'yaw': 0.11303495615720749}","{'TIME': '2023-02-15-11-57-00.549507730', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.023905331268906593, 'estPitch': -0.0168955959379673, 'estYaw': 0.628676176071167, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.582471640', 'roll': -0.029009338468313217, 'pitch': -0.016627417877316475, 'yaw': 0.1130201667547226, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.02391347475349903, 'estPitch': -0.016889015212655067, 'estYaw': 0.6286723613739014, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.615351322', 'roll': -0.02899884432554245, 'pitch': -0.01661980152130127, 'yaw': 0.11300855875015259}","{'TIME': '2023-02-15-11-57-00.615422328', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.02390957623720169, 'estPitch': -0.016888625919818878, 'estYaw': 0.6286686658859253, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.648391858', 'roll': -0.0290084108710289, 'pitch': -0.01661662757396698, 'yaw': 0.11302351951599121}","{'TIME': '2023-02-15-11-57-00.648469623', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.023925207555294037, 'estPitch': -0.016872594133019447, 'estYaw': 0.6286738514900208, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.681422243', 'roll': -0.02901623211801052, 'pitch': -0.016612283885478973, 'yaw': 0.11302689462900162}","{'TIME': '2023-02-15-11-57-00.681498843', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250946044921875, 'estEastPositionUncert': 56.250946044921875, 'estDownPositionUncert': 56.250946044921875, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.338785648345947, 'estEastVelocityUncert': 5.339528560638428, 'estDownVelocityUncert': 1.8306983709335327, 'estRoll': -0.023934584110975266, 'estPitch': -0.01688299886882305, 'estYaw': 0.628685474395752, 'estRollUncert': 0.0009506046189926565, 'estPitchUncert': 0.0009459175053052604, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.715396772', 'roll': -0.029036670923233032, 'pitch': -0.016631588339805603, 'yaw': 0.11303045600652695, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.023943237960338593, 'estPitch': -0.01689944975078106, 'estYaw': 0.6286916136741638, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.748385604', 'roll': -0.029038861393928528, 'pitch': -0.016631243750452995, 'yaw': 0.11301732808351517, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.023947417736053467, 'estPitch': -0.016894927248358727, 'estYaw': 0.6286881566047668, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.781313709', 'roll': -0.02903817407786846, 'pitch': -0.01663271337747574, 'yaw': 0.11301823705434799, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.02395409718155861, 'estPitch': -0.01689773052930832, 'estYaw': 0.6286739110946655, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.814327807', 'roll': -0.02903774380683899, 'pitch': -0.016634805127978325, 'yaw': 0.11301008611917496, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.023951701819896698, 'estPitch': -0.016896730288863182, 'estYaw': 0.6286769509315491, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.847362718', 'roll': -0.0290505550801754, 'pitch': -0.016623567789793015, 'yaw': 0.11300667375326157, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.023963676765561104, 'estPitch': -0.016890747472643852, 'estYaw': 0.6286757588386536, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.880249544', 'roll': -0.029057789593935013, 'pitch': -0.016617031767964363, 'yaw': 0.11299248039722443}","{'TIME': '2023-02-15-11-57-00.880346779', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.02396894060075283, 'estPitch': -0.01687707006931305, 'estYaw': 0.6286624670028687, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.913283732', 'roll': -0.029058031737804413, 'pitch': -0.01661096327006817, 'yaw': 0.11298706382513046}","{'TIME': '2023-02-15-11-57-00.913347940', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.023966781795024872, 'estPitch': -0.016880594193935394, 'estYaw': 0.6286625862121582, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.946232300', 'roll': -0.029055429622530937, 'pitch': -0.016612468287348747, 'yaw': 0.11298540234565735}","{'TIME': '2023-02-15-11-57-00.946319191', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.02396123856306076, 'estPitch': -0.016884364187717438, 'estYaw': 0.628655731678009, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-00.979277773', 'roll': -0.02904653362929821, 'pitch': -0.01660967618227005, 'yaw': 0.11297774314880371, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.02396412193775177, 'estPitch': -0.016876405104994774, 'estYaw': 0.6286565661430359, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.012208532', 'roll': -0.029050542041659355, 'pitch': -0.01661643385887146, 'yaw': 0.11298172175884247, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.023965490981936455, 'estPitch': -0.016880815848708153, 'estYaw': 0.6286673545837402, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.045185078', 'roll': -0.02904714085161686, 'pitch': -0.016605520620942116, 'yaw': 0.11298083513975143}","{'TIME': '2023-02-15-11-57-01.045259994', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.023959049955010414, 'estPitch': -0.016865737736225128, 'estYaw': 0.6286596655845642, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.078153943', 'roll': -0.02903584949672222, 'pitch': -0.016592031344771385, 'yaw': 0.11297506093978882}","{'TIME': '2023-02-15-11-57-01.078219983', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.023949092254042625, 'estPitch': -0.016871660947799683, 'estYaw': 0.6286583542823792, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.111134124', 'roll': -0.029029006138443947, 'pitch': -0.016595860943198204, 'yaw': 0.1129741221666336}","{'TIME': '2023-02-15-11-57-01.111204684', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.023941300809383392, 'estPitch': -0.016861824318766594, 'estYaw': 0.6286601424217224, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.144153348', 'roll': -0.0290233064442873, 'pitch': -0.016598554328083992, 'yaw': 0.11296774446964264}","{'TIME': '2023-02-15-11-57-01.144243828', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.023937037214636803, 'estPitch': -0.016869354993104935, 'estYaw': 0.6286588907241821, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.177114885', 'roll': -0.029032550752162933, 'pitch': -0.016593458130955696, 'yaw': 0.11297624558210373}","{'TIME': '2023-02-15-11-57-01.177204134', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.2504997253418, 'estEastPositionUncert': 56.2504997253418, 'estDownPositionUncert': 56.2504997253418, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339056968688965, 'estEastVelocityUncert': 5.339799880981445, 'estDownVelocityUncert': 1.8306785821914673, 'estRoll': -0.023944346234202385, 'estPitch': -0.01686001755297184, 'estYaw': 0.6286650896072388, 'estRollUncert': 0.0009506516507826746, 'estPitchUncert': 0.0009459654684178531, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.210210908', 'roll': -0.029018886387348175, 'pitch': -0.01658899523317814, 'yaw': 0.11297677457332611, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.02393394708633423, 'estPitch': -0.016856679692864418, 'estYaw': 0.6286655068397522, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.243043507', 'roll': -0.029019994661211967, 'pitch': -0.0165831558406353, 'yaw': 0.11297398060560226}","{'TIME': '2023-02-15-11-57-01.243128158', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.02394109219312668, 'estPitch': -0.016850018873810768, 'estYaw': 0.628665566444397, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.276058875', 'roll': -0.029020657762885094, 'pitch': -0.016586095094680786, 'yaw': 0.11297565698623657}","{'TIME': '2023-02-15-11-57-01.276134297', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.023939533159136772, 'estPitch': -0.01685231365263462, 'estYaw': 0.628670334815979, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.309074146', 'roll': -0.02903558500111103, 'pitch': -0.01658584550023079, 'yaw': 0.11298420280218124, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.023947278037667274, 'estPitch': -0.016862547025084496, 'estYaw': 0.6286818385124207, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.342023853', 'roll': -0.029034532606601715, 'pitch': -0.016591297462582588, 'yaw': 0.11299267411231995}","{'TIME': '2023-02-15-11-57-01.342108440', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.02395341545343399, 'estPitch': -0.016868984326720238, 'estYaw': 0.6286882758140564, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.375070221', 'roll': -0.029031777754426003, 'pitch': -0.01660185679793358, 'yaw': 0.11300183832645416, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.02394467405974865, 'estPitch': -0.016867652535438538, 'estYaw': 0.6286985874176025, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.408057034', 'roll': -0.029018543660640717, 'pitch': -0.016606122255325317, 'yaw': 0.11299166828393936, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.023933591321110725, 'estPitch': -0.01687975600361824, 'estYaw': 0.6286919116973877, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.441046011', 'roll': -0.029028305783867836, 'pitch': -0.01661773957312107, 'yaw': 0.11299566924571991, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.02394149638712406, 'estPitch': -0.0168861486017704, 'estYaw': 0.628702700138092, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.474048871', 'roll': -0.02901594713330269, 'pitch': -0.016615005210042, 'yaw': 0.11299385130405426, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.023939136415719986, 'estPitch': -0.01688658818602562, 'estYaw': 0.6286997199058533, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.507000091', 'roll': -0.029024561867117882, 'pitch': -0.01661110855638981, 'yaw': 0.11298927664756775}","{'TIME': '2023-02-15-11-57-01.507085659', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.023948563262820244, 'estPitch': -0.016880499199032784, 'estYaw': 0.6287022233009338, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.539937433', 'roll': -0.02903115749359131, 'pitch': -0.016597356647253036, 'yaw': 0.11298660188913345}","{'TIME': '2023-02-15-11-57-01.540011103', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.02394074574112892, 'estPitch': -0.016865508630871773, 'estYaw': 0.6287052035331726, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.572966441', 'roll': -0.02902122400701046, 'pitch': -0.016597939655184746, 'yaw': 0.11298447847366333}","{'TIME': '2023-02-15-11-57-01.573047349', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.023929838091135025, 'estPitch': -0.016869664192199707, 'estYaw': 0.6287002563476562, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.605937313', 'roll': -0.029010102152824402, 'pitch': -0.016585838049650192, 'yaw': 0.11297406256198883}","{'TIME': '2023-02-15-11-57-01.606015592', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.023930655792355537, 'estPitch': -0.01685904711484909, 'estYaw': 0.6286930441856384, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.638842479', 'roll': -0.029012735933065414, 'pitch': -0.016591118648648262, 'yaw': 0.11296594887971878}","{'TIME': '2023-02-15-11-57-01.638912102', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.023932699114084244, 'estPitch': -0.016859928146004677, 'estYaw': 0.6286905407905579, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.671851605', 'roll': -0.02902851440012455, 'pitch': -0.016594987362623215, 'yaw': 0.1129574105143547}","{'TIME': '2023-02-15-11-57-01.671927857', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.02393907494843006, 'estPitch': -0.016865907236933708, 'estYaw': 0.6286875009536743, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.704887887', 'roll': -0.029028691351413727, 'pitch': -0.016595402732491493, 'yaw': 0.11295091360807419, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.250057220458984, 'estEastPositionUncert': 56.250057220458984, 'estDownPositionUncert': 56.250057220458984, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339328289031982, 'estEastVelocityUncert': 5.340070724487305, 'estDownVelocityUncert': 1.8306586742401123, 'estRoll': -0.023936348035931587, 'estPitch': -0.016866736114025116, 'estYaw': 0.6286777257919312, 'estRollUncert': 0.0009506985661573708, 'estPitchUncert': 0.0009459907305426896, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.737803517', 'roll': -0.02902813069522381, 'pitch': -0.016595860943198204, 'yaw': 0.11294493824243546}","{'TIME': '2023-02-15-11-57-01.737879116', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.02393210679292679, 'estPitch': -0.01686295121908188, 'estYaw': 0.6286854147911072, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.770833894', 'roll': -0.029025310650467873, 'pitch': -0.01660163328051567, 'yaw': 0.11294230073690414}","{'TIME': '2023-02-15-11-57-01.770910976', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.02393925003707409, 'estPitch': -0.016880521550774574, 'estYaw': 0.6286835074424744, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.803887994', 'roll': -0.02902817726135254, 'pitch': -0.016612323001027107, 'yaw': 0.11292660981416702, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.023939065635204315, 'estPitch': -0.016883356496691704, 'estYaw': 0.6286777257919312, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.836840930', 'roll': -0.029020875692367554, 'pitch': -0.016613146290183067, 'yaw': 0.11292676627635956, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.023945137858390808, 'estPitch': -0.016878478229045868, 'estYaw': 0.6286744475364685, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.869786803', 'roll': -0.029027696698904037, 'pitch': -0.01658959873020649, 'yaw': 0.11292432248592377}","{'TIME': '2023-02-15-11-57-01.869873442', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.02393926866352558, 'estPitch': -0.016865437850356102, 'estYaw': 0.6286770701408386, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.902785593', 'roll': -0.02903522178530693, 'pitch': -0.016595132648944855, 'yaw': 0.11290924996137619}","{'TIME': '2023-02-15-11-57-01.902859667', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.02394556812942028, 'estPitch': -0.016860809177160263, 'estYaw': 0.6286715865135193, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.935797582', 'roll': -0.029033683240413666, 'pitch': -0.016591593623161316, 'yaw': 0.11290856450796127, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.02394118905067444, 'estPitch': -0.01685943454504013, 'estYaw': 0.6286711096763611, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-01.968777475', 'roll': -0.029048290103673935, 'pitch': -0.016602763906121254, 'yaw': 0.1129104346036911, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.023955997079610825, 'estPitch': -0.016872549429535866, 'estYaw': 0.6286690831184387, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-02.001705755', 'roll': -0.029050501063466072, 'pitch': -0.0166082251816988, 'yaw': 0.11291662603616714}","{'TIME': '2023-02-15-11-57-02.001785630', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.023959049955010414, 'estPitch': -0.016878047958016396, 'estYaw': 0.6286832690238953, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-02.034669865', 'roll': -0.02905506268143654, 'pitch': -0.016615046188235283, 'yaw': 0.11291694641113281}","{'TIME': '2023-02-15-11-57-02.034738236', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.02395862527191639, 'estPitch': -0.016886606812477112, 'estYaw': 0.6286852955818176, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-02.067619150', 'roll': -0.029060911387205124, 'pitch': -0.016620151698589325, 'yaw': 0.11290561407804489}","{'TIME': '2023-02-15-11-57-02.067687776', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.023967884480953217, 'estPitch': -0.01689426228404045, 'estYaw': 0.6286760568618774, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-02.100651614', 'roll': -0.029066279530525208, 'pitch': -0.016635876148939133, 'yaw': 0.11291316151618958, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.023981371894478798, 'estPitch': -0.016899872571229935, 'estYaw': 0.6286863684654236, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-02.133625290', 'roll': -0.02906222455203533, 'pitch': -0.0166267529129982, 'yaw': 0.11291729658842087}","{'TIME': '2023-02-15-11-57-02.133703422', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.023974033072590828, 'estPitch': -0.016897277906537056, 'estYaw': 0.6286910176277161, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-02.166646071', 'roll': -0.029070554301142693, 'pitch': -0.016637513414025307, 'yaw': 0.11291676759719849, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.02397882752120495, 'estPitch': -0.01691356673836708, 'estYaw': 0.6286937594413757, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-02.199682298', 'roll': -0.02907615527510643, 'pitch': -0.016652356833219528, 'yaw': 0.11291572451591492, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.24961471557617, 'estEastPositionUncert': 56.24961471557617, 'estDownPositionUncert': 56.24961471557617, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339599132537842, 'estEastVelocityUncert': 5.340342044830322, 'estDownVelocityUncert': 1.8306388854980469, 'estRoll': -0.023976663127541542, 'estPitch': -0.016923217102885246, 'estYaw': 0.6286951899528503, 'estRollUncert': 0.0009507474023848772, 'estPitchUncert': 0.0009460333385504782, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-02.232610419', 'roll': -0.02908341959118843, 'pitch': -0.016659434884786606, 'yaw': 0.11292021721601486, 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.249168395996094, 'estEastPositionUncert': 56.249168395996094, 'estDownPositionUncert': 56.249168395996094, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339870452880859, 'estEastVelocityUncert': 5.34061336517334, 'estDownVelocityUncert': 1.830618977546692, 'estRoll': -0.023989442735910416, 'estPitch': -0.01692787930369377, 'estYaw': 0.6287022233009338, 'estRollUncert': 0.0009507987415418029, 'estPitchUncert': 0.0009460719302296638, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-02.265600105', 'roll': -0.029082024469971657, 'pitch': -0.016662199050188065, 'yaw': 0.11291753500699997}","{'TIME': '2023-02-15-11-57-02.265673430', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.249168395996094, 'estEastPositionUncert': 56.249168395996094, 'estDownPositionUncert': 56.249168395996094, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339870452880859, 'estEastVelocityUncert': 5.34061336517334, 'estDownVelocityUncert': 1.830618977546692, 'estRoll': -0.02399538829922676, 'estPitch': -0.016937486827373505, 'estYaw': 0.6286985278129578, 'estRollUncert': 0.0009507987415418029, 'estPitchUncert': 0.0009460719302296638, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-02.298584624', 'roll': -0.029082950204610825, 'pitch': -0.016667325049638748, 'yaw': 0.1129101812839508}","{'TIME': '2023-02-15-11-57-02.298658636', 'estFilterGpsTimeTow': None, 'estFilterGpsTimeWeekNum': None, 'estLatitude': None, 'estLongitude': None, 'estHeightAboveElipsoid': None, 'estNorthPositionUncert': 56.249168395996094, 'estEastPositionUncert': 56.249168395996094, 'estDownPositionUncert': 56.249168395996094, 'estNorthVelocity': None, 'estEastVelocity': None, 'estDownVelocity': None, 'estNorthVelocityUncert': 5.339870452880859, 'estEastVelocityUncert': 5.34061336517334, 'estDownVelocityUncert': 1.830618977546692, 'estRoll': -0.0239955335855484, 'estPitch': -0.01693921536207199, 'estYaw': 0.6286919116973877, 'estRollUncert': 0.0009507987415418029, 'estPitchUncert': 0.0009460719302296638, 'estYawUncert': 0.17000000178813934, 'estFilterState': 2.0, 'estFilterDynamicsMode': 1.0, 'estFilterStatusFlags': 1025.0}","{'TIME': '2023-02-15-11-57-02.331837946', 'roll': -0.029089439660310745, 'pitch': -0.016673583537340164, 'yaw': 0.11290054023265839}"
+"[-2.89556403e-02 -1.65935531e-02  1.13094032e-01             nan
+             nan             nan             nan             nan
+  5.62513885e+01  5.62513885e+01  5.62513885e+01             nan
+             nan             nan  5.33851433e+00  5.33925724e+00
+  1.83071828e+00 -2.38834471e-02 -1.68424714e-02  6.28638327e-01
+  9.50548332e-04  9.45871405e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02895519 -0.01659962  0.11309107         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62513885e+01  5.62513885e+01  5.62513885e+01             nan
+             nan             nan  5.33851433e+00  5.33925724e+00
+  1.83071828e+00 -2.38840673e-02 -1.68507528e-02  6.28639936e-01
+  9.50548332e-04  9.45871405e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02895734 -0.01659845  0.11309464         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62513885e+01  5.62513885e+01  5.62513885e+01             nan
+             nan             nan  5.33851433e+00  5.33925724e+00
+  1.83071828e+00 -2.38886960e-02 -1.68515611e-02  6.28645837e-01
+  9.50548332e-04  9.45871405e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02896213 -0.01659393  0.11309235         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62513885e+01  5.62513885e+01  5.62513885e+01             nan
+             nan             nan  5.33851433e+00  5.33925724e+00
+  1.83071828e+00 -2.38929577e-02 -1.68503504e-02  6.28649592e-01
+  9.50548332e-04  9.45871405e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.0289568  -0.0165744   0.11309189         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62513885e+01  5.62513885e+01  5.62513885e+01             nan
+             nan             nan  5.33851433e+00  5.33925724e+00
+  1.83071828e+00 -2.38872543e-02 -1.68333165e-02  6.28654540e-01
+  9.50548332e-04  9.45871405e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02896539 -0.01658528  0.11308745         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62513885e+01  5.62513885e+01  5.62513885e+01             nan
+             nan             nan  5.33851433e+00  5.33925724e+00
+  1.83071828e+00 -2.38879602e-02 -1.68327317e-02  6.28655195e-01
+  9.50548332e-04  9.45871405e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02897426 -0.01658662  0.11308616         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62513885e+01  5.62513885e+01  5.62513885e+01             nan
+             nan             nan  5.33851433e+00  5.33925724e+00
+  1.83071828e+00 -2.38988027e-02 -1.68395359e-02  6.28660262e-01
+  9.50548332e-04  9.45871405e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.89651137e-02 -1.65903661e-02  1.13097526e-01             nan
+             nan             nan             nan             nan
+  5.62513885e+01  5.62513885e+01  5.62513885e+01             nan
+             nan             nan  5.33851433e+00  5.33925724e+00
+  1.83071828e+00 -2.38905139e-02 -1.68552175e-02  6.28668249e-01
+  9.50548332e-04  9.45871405e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.0289691  -0.01659767  0.11309081         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62513885e+01  5.62513885e+01  5.62513885e+01             nan
+             nan             nan  5.33851433e+00  5.33925724e+00
+  1.83071828e+00 -2.38997508e-02 -1.68529879e-02  6.28675997e-01
+  9.50548332e-04  9.45871405e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02897478 -0.01660176  0.11308622         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62513885e+01  5.62513885e+01  5.62513885e+01             nan
+             nan             nan  5.33851433e+00  5.33925724e+00
+  1.83071828e+00 -2.38911379e-02 -1.68611538e-02  6.28675461e-01
+  9.50548332e-04  9.45871405e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.89890487e-02 -1.66182462e-02  1.13084942e-01             nan
+             nan             nan             nan             nan
+  5.62513885e+01  5.62513885e+01  5.62513885e+01             nan
+             nan             nan  5.33851433e+00  5.33925724e+00
+  1.83071828e+00 -2.39057355e-02 -1.68741774e-02  6.28673673e-01
+  9.50548332e-04  9.45871405e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.89776698e-02 -1.66362096e-02  1.13078043e-01             nan
+             nan             nan             nan             nan
+  5.62513885e+01  5.62513885e+01  5.62513885e+01             nan
+             nan             nan  5.33851433e+00  5.33925724e+00
+  1.83071828e+00 -2.39066705e-02 -1.68900192e-02  6.28676474e-01
+  9.50548332e-04  9.45871405e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02898327 -0.01665284  0.11308027         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62513885e+01  5.62513885e+01  5.62513885e+01             nan
+             nan             nan  5.33851433e+00  5.33925724e+00
+  1.83071828e+00 -2.39020512e-02 -1.69090759e-02  6.28678441e-01
+  9.50548332e-04  9.45871405e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02899253 -0.01666517  0.11307117         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62513885e+01  5.62513885e+01  5.62513885e+01             nan
+             nan             nan  5.33851433e+00  5.33925724e+00
+  1.83071828e+00 -2.39111464e-02 -1.69178452e-02  6.28674746e-01
+  9.50548332e-04  9.45871405e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.89894491e-02 -1.66585539e-02  1.13071382e-01             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39039790e-02 -1.69104896e-02  6.28681242e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.89967079e-02 -1.66578181e-02  1.13075025e-01             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39074286e-02 -1.69206243e-02  6.28686428e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90011857e-02 -1.66645553e-02  1.13061443e-01             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39258502e-02 -1.69230346e-02  6.28681004e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02901229 -0.01667508  0.11305702         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39310507e-02 -1.69251002e-02  6.28683150e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02900844 -0.01667582  0.11306578         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39164438e-02 -1.69321038e-02  6.28694415e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90039331e-02 -1.66604556e-02  1.13062434e-01             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39087474e-02 -1.69267934e-02  6.28693163e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02899299 -0.01667139  0.11305465         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39035338e-02 -1.69278476e-02  6.28691673e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02899049 -0.01665007  0.11304487         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39035226e-02 -1.69098098e-02  6.28683627e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.89994720e-02 -1.66514926e-02  1.13040812e-01             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39163823e-02 -1.69081539e-02  6.28680289e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02899264 -0.01663127  0.11303449         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39059534e-02 -1.68934613e-02  6.28680408e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02900324 -0.01662651  0.11303496         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39053313e-02 -1.68955959e-02  6.28676176e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90093385e-02 -1.66274179e-02  1.13020167e-01             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39134748e-02 -1.68890152e-02  6.28672361e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02899884 -0.0166198   0.11300856         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39095762e-02 -1.68886259e-02  6.28668666e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02900841 -0.01661663  0.11302352         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39252076e-02 -1.68725941e-02  6.28673851e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02901623 -0.01661228  0.11302689         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62509460e+01  5.62509460e+01  5.62509460e+01             nan
+             nan             nan  5.33878565e+00  5.33952856e+00
+  1.83069837e+00 -2.39345841e-02 -1.68829989e-02  6.28685474e-01
+  9.50604619e-04  9.45917505e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90366709e-02 -1.66315883e-02  1.13030456e-01             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39432380e-02 -1.68994498e-02  6.28691614e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90388614e-02 -1.66312438e-02  1.13017328e-01             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39474177e-02 -1.68949272e-02  6.28688157e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90381741e-02 -1.66327134e-02  1.13018237e-01             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39540972e-02 -1.68977305e-02  6.28673911e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90377438e-02 -1.66348051e-02  1.13010086e-01             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39517018e-02 -1.68967303e-02  6.28676951e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90505551e-02 -1.66235678e-02  1.13006674e-01             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39636768e-02 -1.68907475e-02  6.28675759e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02905779 -0.01661703  0.11299248         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39689406e-02 -1.68770701e-02  6.28662467e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02905803 -0.01661096  0.11298706         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39667818e-02 -1.68805942e-02  6.28662586e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02905543 -0.01661247  0.1129854          nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39612386e-02 -1.68843642e-02  6.28655732e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90465336e-02 -1.66096762e-02  1.12977743e-01             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39641219e-02 -1.68764051e-02  6.28656566e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90505420e-02 -1.66164339e-02  1.12981722e-01             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39654910e-02 -1.68808158e-02  6.28667355e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02904714 -0.01660552  0.11298084         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39590500e-02 -1.68657377e-02  6.28659666e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02903585 -0.01659203  0.11297506         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39490923e-02 -1.68716609e-02  6.28658354e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02902901 -0.01659586  0.11297412         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39413008e-02 -1.68618243e-02  6.28660142e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02902331 -0.01659855  0.11296774         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39370372e-02 -1.68693550e-02  6.28658891e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02903255 -0.01659346  0.11297625         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62504997e+01  5.62504997e+01  5.62504997e+01             nan
+             nan             nan  5.33905697e+00  5.33979988e+00
+  1.83067858e+00 -2.39443462e-02 -1.68600176e-02  6.28665090e-01
+  9.50651651e-04  9.45965468e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90188864e-02 -1.65889952e-02  1.12976775e-01             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39339471e-02 -1.68566797e-02  6.28665507e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02901999 -0.01658316  0.11297398         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39410922e-02 -1.68500189e-02  6.28665566e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02902066 -0.0165861   0.11297566         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39395332e-02 -1.68523137e-02  6.28670335e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90355850e-02 -1.65858455e-02  1.12984203e-01             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39472780e-02 -1.68625470e-02  6.28681839e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02903453 -0.0165913   0.11299267         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39534155e-02 -1.68689843e-02  6.28688276e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90317778e-02 -1.66018568e-02  1.13001838e-01             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39446741e-02 -1.68676525e-02  6.28698587e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90185437e-02 -1.66061223e-02  1.12991668e-01             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39335913e-02 -1.68797560e-02  6.28691912e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90283058e-02 -1.66177396e-02  1.12995669e-01             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39414964e-02 -1.68861486e-02  6.28702700e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90159471e-02 -1.66150052e-02  1.12993851e-01             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39391364e-02 -1.68865882e-02  6.28699720e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02902456 -0.01661111  0.11298928         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39485633e-02 -1.68804992e-02  6.28702223e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02903116 -0.01659736  0.1129866          nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39407457e-02 -1.68655086e-02  6.28705204e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02902122 -0.01659794  0.11298448         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39298381e-02 -1.68696642e-02  6.28700256e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.0290101  -0.01658584  0.11297406         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39306558e-02 -1.68590471e-02  6.28693044e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02901274 -0.01659112  0.11296595         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39326991e-02 -1.68599281e-02  6.28690541e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02902851 -0.01659499  0.11295741         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39390749e-02 -1.68659072e-02  6.28687501e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90286914e-02 -1.65954027e-02  1.12950914e-01             nan
+             nan             nan             nan             nan
+  5.62500572e+01  5.62500572e+01  5.62500572e+01             nan
+             nan             nan  5.33932829e+00  5.34007072e+00
+  1.83065867e+00 -2.39363480e-02 -1.68667361e-02  6.28677726e-01
+  9.50698566e-04  9.45990731e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02902813 -0.01659586  0.11294494         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39321068e-02 -1.68629512e-02  6.28685415e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02902531 -0.01660163  0.1129423          nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39392500e-02 -1.68805216e-02  6.28683507e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90281773e-02 -1.66123230e-02  1.12926610e-01             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39390656e-02 -1.68833565e-02  6.28677726e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90208757e-02 -1.66131463e-02  1.12926766e-01             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39451379e-02 -1.68784782e-02  6.28674448e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.0290277  -0.0165896   0.11292432         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39392687e-02 -1.68654379e-02  6.28677070e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02903522 -0.01659513  0.11290925         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39455681e-02 -1.68608092e-02  6.28671587e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90336832e-02 -1.65915936e-02  1.12908565e-01             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39411891e-02 -1.68594345e-02  6.28671110e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90482901e-02 -1.66027639e-02  1.12910435e-01             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39559971e-02 -1.68725494e-02  6.28669083e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.0290505  -0.01660823  0.11291663         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39590500e-02 -1.68780480e-02  6.28683269e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02905506 -0.01661505  0.11291695         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39586253e-02 -1.68866068e-02  6.28685296e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02906091 -0.01662015  0.11290561         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39678845e-02 -1.68942623e-02  6.28676057e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90662795e-02 -1.66358761e-02  1.12913162e-01             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39813719e-02 -1.68998726e-02  6.28686368e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02906222 -0.01662675  0.1129173          nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39740331e-02 -1.68972779e-02  6.28691018e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90705543e-02 -1.66375134e-02  1.12916768e-01             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39788275e-02 -1.69135667e-02  6.28693759e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90761553e-02 -1.66523568e-02  1.12915725e-01             nan
+             nan             nan             nan             nan
+  5.62496147e+01  5.62496147e+01  5.62496147e+01             nan
+             nan             nan  5.33959913e+00  5.34034204e+00
+  1.83063889e+00 -2.39766631e-02 -1.69232171e-02  6.28695190e-01
+  9.50747402e-04  9.46033339e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-2.90834196e-02 -1.66594349e-02  1.12920217e-01             nan
+             nan             nan             nan             nan
+  5.62491684e+01  5.62491684e+01  5.62491684e+01             nan
+             nan             nan  5.33987045e+00  5.34061337e+00
+  1.83061898e+00 -2.39894427e-02 -1.69278793e-02  6.28702223e-01
+  9.50798742e-04  9.46071930e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02908202 -0.0166622   0.11291754         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62491684e+01  5.62491684e+01  5.62491684e+01             nan
+             nan             nan  5.33987045e+00  5.34061337e+00
+  1.83061898e+00 -2.39953883e-02 -1.69374868e-02  6.28698528e-01
+  9.50798742e-04  9.46071930e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]","[-0.02908295 -0.01666733  0.11291018         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan]","[            nan             nan             nan             nan
+             nan             nan             nan             nan
+  5.62491684e+01  5.62491684e+01  5.62491684e+01             nan
+             nan             nan  5.33987045e+00  5.34061337e+00
+  1.83061898e+00 -2.39955336e-02 -1.69392154e-02  6.28691912e-01
+  9.50798742e-04  9.46071930e-04  1.70000002e-01  2.00000000e+00
+  1.00000000e+00  1.02500000e+03]",
